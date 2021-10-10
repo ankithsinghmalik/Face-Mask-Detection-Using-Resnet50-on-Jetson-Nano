@@ -1,5 +1,7 @@
 # Face-Mask-Detection-Using-Resnet50-on-Jetson-Nano 
 
+## This Repository will guide you on how to work on Jetson Nano
+
 # Step 1:
  
 Download the Required Dataset mentioned in the Notebook Resnet50_Face_Mask_Detection.
